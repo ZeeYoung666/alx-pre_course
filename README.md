@@ -1,2 +1,3 @@
 # alx-pre_course
-Precourses for ALX
+A repo containing precourses for the ALX online program 
+
